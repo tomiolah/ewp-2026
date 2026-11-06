@@ -31,7 +31,7 @@ Use this after `git pull` (or a fresh clone) when you want to see or use someone
 Playlist copies can stay stale even after a Library import. After importing, confirm you are looking at the Library presentation (or re-add it to the playlist) before rehearsing.
 
 ## Sheet music PDF
-The sheet music for EWP 2025 is not available as a PDF file in the repository, as it would be too big as file, so you can find it on this [Google Drive link](https://drive.google.com/file/d/1jK4EL1Nai0rL90ZntdKQ28nUOv9I0ob0/view?usp=sharing).
+The sheet music for EWP 2026 is not available as a PDF file in the repository, as it would be too big as file, so you can find it on this [Google Drive link](https://drive.google.com/file/d/1jK4EL1Nai0rL90ZntdKQ28nUOv9I0ob0/view?usp=sharing).
 
 ## YouTube Playlist
 
@@ -56,4 +56,4 @@ A YouTube playlist with all the songs from EWP 2026 can be found [here](https://
 | Jöjj, és áldd az Urat!                                                  | [🟡] pro done, pending review         |
 | Szent az Isten                                                          | [🟡] pro done, pending review         |
 | Te vagy a mi Istenünk                                                   | [🟡] pro done, pending review         |
-| Vizsgálj meg, ó, Isteb                                                  | [🟡] pro done, pending review         |
+| Vizsgálj meg, ó, Isten                                                  | [🟡] pro done, pending review         |
