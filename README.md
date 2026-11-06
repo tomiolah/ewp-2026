@@ -1,7 +1,34 @@
 # EWP 2026
 
 This repository contains the music data and related resources for the EWP 2026 worship program, as well as the projection files for use with ProPresenter.
-Note that all ProPresenters files should be set to a size of **1920 x 800** pixels to match the LED wall at the BBSO Campus!
+Note that all ProPresenter files should be set to a size of **1920 x 800** pixels to match the LED wall at the BBSO Campus!
+
+## Editing songs in ProPresenter
+
+From **ProPresenter v22** onward, presentations are no longer stored as individual `.pro` files on disk. Songs live in ProPresenter's SQLite library instead. This repo still uses exported `.pro` files in `propresenter/` so we can review, diff, and share changes in git.
+
+Do not copy files out of ProPresenter's application data folder. Always export and import through ProPresenter.
+
+### Pushing songs from ProPresenter into the repo
+
+Use this after you have edited songs in ProPresenter and want those edits in git.
+
+1. In ProPresenter, select the songs in the **Library**. Do **not** select them from a playlist.
+2. Choose **File > Export > Presentation**.
+3. Point the export at the `propresenter/` folder in this repository (overwrite the existing `.pro` files).
+4. Commit and push the updated files as usual.
+
+### Pulling songs from the repo into ProPresenter
+
+Use this after `git pull` (or a fresh clone) when you want to see or use someone else's song changes.
+
+1. Pull the latest repo changes (`git pull`).
+2. In ProPresenter, choose **File > Import** (or drag the `.pro` files in) and import from the repo's `propresenter/` folder.
+3. Import into the **Library**, not only into a playlist.
+4. If ProPresenter asks whether to replace an existing presentation, replace it so you pick up the repo version.
+5. Open the songs from the Library to review the updated slides.
+
+Playlist copies can stay stale even after a Library import. After importing, confirm you are looking at the Library presentation (or re-add it to the playlist) before rehearsing.
 
 ## Sheet music PDF
 The sheet music for EWP 2025 is not available as a PDF file in the repository, as it would be too big as file, so you can find it on this [Google Drive link](https://drive.google.com/file/d/1jK4EL1Nai0rL90ZntdKQ28nUOv9I0ob0/view?usp=sharing).
