@@ -39,21 +39,21 @@ A YouTube playlist with all the songs from EWP 2026 can be found [here](https://
 
 ## Song list + progress
 
-| Song Title                                                              | Status                                |
-|-------------------------------------------------------------------------|---------------------------------------|
-| 24. Zsoltár                                                             | [🟡] pro done, pending review         |
-| 103. Zsoltár                                                            | [🟡] pro done, pending review         |
-| Ahogy Te akarod                                                         | [🟡] pro done, pending review         |
-| Áldd nevét!                                                             | [🟡] pro done, pending review         |
-| Csillagfényes csöndes éjjel                                             | [🟡] pro done, pending review         |
-| Élő Ige drága vize                                                      | [🟡] pro done, pending review         |
-| Halld, mint zengi angyal hírnök                                         | [🟡] pro done, pending review         |
-| Hűséged végtelen                                                        | [🟡] pro done, pending review         |
-| Immánuel                                                                | [_] plaintext done; need more context |
-| Keresztednél                                                            | [🟡] pro done, pending review         |
-| Kőszikla alap                                                           | [ ] To Do; need more info             |
-| Légy Te az első nékem                                                   | [🟡] pro done, pending review         |
-| Jöjj, és áldd az Urat!                                                  | [🟡] pro done, pending review         |
-| Szent az Isten                                                          | [🟡] pro done, pending review         |
-| Te vagy a mi Istenünk                                                   | [🟡] pro done, pending review         |
-| Vizsgálj meg, ó, Isten                                                  | [🟡] pro done, pending review         |
+| Song Title                                                              | Status                                               |
+|-------------------------------------------------------------------------|------------------------------------------------------|
+| 24. Zsoltár                                                             | [🟡] pro done, stage SS done, pending review         |
+| 103. Zsoltár                                                            | [🟡] pro done, stage SS done, pending review         |
+| Ahogy Te akarod                                                         | [🟡] pro done, stage SS done, pending review         |
+| Áldd nevét!                                                             | [🟡] pro done, stage SS done, pending review         |
+| Csillagfényes csöndes éjjel                                             | [🟡] pro done, stage SS done, pending review         |
+| Élő Ige drága vize                                                      | [🟡] pro done, stage SS done, pending review         |
+| Halld, mint zengi angyal hírnök                                         | [🟡] pro done, stage SS done, pending review         |
+| Hűséged végtelen                                                        | [🟡] pro done, stage SS done, pending review         |
+| Immánuel                                                                | [🟡] pro done, stage SS done, pending review         |
+| Keresztednél                                                            | [🟡] pro done, stage SS done, pending review         |
+| Kőszikla alap                                                           | [🟡] pro done, stage SS done, pending review         |
+| Légy Te az első nékem                                                   | [🟡] pro done, stage SS done, pending review         |
+| Jöjj, és áldd az Urat!                                                  | [🟡] pro done, stage SS done, pending review         |
+| Szent az Isten                                                          | [🟡] pro done, stage SS done, pending review         |
+| Te vagy a mi Istenünk                                                   | [🟡] pro done, stage SS done, pending review         |
+| Vizsgálj meg, ó, Isten                                                  | [🟡] pro done, stage SS done, pending review         |
